@@ -26,7 +26,7 @@ The following supervised learning models are explored:
 * Decision Tree Classifier
 * Random Forest Classifier
 * Support Vector Machine (SVM)
-* K-Nearest Neighbors (k-NN)
+* K-Nearest Neighbors (K-NN)
 
 ## Results and Evaluation:
 Each model is evaluated based on the following metrics:
